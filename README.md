@@ -15,6 +15,8 @@ Amanda Paulette - assistance of writing code for project, run and check
 
 For original image - https://private-user-images.githubusercontent.com/148695159/289394248-e5281bb6-6dda-427b-acd3-74d69a28604d.png?
 
+https://1drv.ms/u/s!AgkCtpz1riGAiMIplqs0RKZy6fRa4A?e=N0788h (used a a guide/reference to work through challenge and test code)
+
 https://openweathermap.org/api
 
 https://getbootstrap.com/docs/4.5/getting-started/introduction/
