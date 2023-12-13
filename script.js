@@ -1,4 +1,3 @@
-
 //Declare a variable to store the searched city
 var city="";
 // variable declaration
@@ -166,24 +165,3 @@ $("#search-button").on("click",displayWeather);
 $(document).on("click",invokePastSearch);
 $(window).on("load",loadlastCity);
 $("#clear-history").on("click",clearHistory);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
