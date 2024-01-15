@@ -26,4 +26,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 https://fontawesome.com/
 
+https://github.com/jbtiglao/about-the-weather/tree/main/assets
+
 ![06-server-side-apis-homework-demo](https://github.com/Hibble32985/Peebster_SNL/assets/148695159/e5281bb6-6dda-427b-acd3-74d69a28604d)
